@@ -1,0 +1,1 @@
+# cpp.templates.class3.partial.specialization
