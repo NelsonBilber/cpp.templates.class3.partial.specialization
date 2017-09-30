@@ -1,1 +1,5 @@
-# cpp.templates.class3.partial.specialization
+# C++ Templates
+
+**Classes**
+
+Partial Specialization
